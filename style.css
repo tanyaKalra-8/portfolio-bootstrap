@@ -1,0 +1,13 @@
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: black;
+}
+.navbar-brand{
+    color: black;
+}
+.bg-light {
+    background-color: lightblue !important;
+}
+.carousel-inner{
+    height: 90vh;
+}
